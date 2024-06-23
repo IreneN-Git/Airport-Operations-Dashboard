@@ -9,5 +9,5 @@
 **Outcome**:
 Enabled airport management to make data-driven decisions, resulting in a 15% reduction in flight delays and improved passenger experience.
 
-**Skills**: Power BI, DAX, SQL, Data Visualization
-**Tools**: Power BI, SQL Server.
+**Skills**: Power BI, DAX, SQL, Data Visualization, Cloud data management
+**Tools**: Power BI, SQL Server, Azure databricks.
