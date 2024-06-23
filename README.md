@@ -1,4 +1,4 @@
-# Airport-Operations-Dashboard
+# Airport Operations Dashboard
 **Objective**: Developed a comprehensive Power BI dashboard for airport operations, providing real-time insights into key performance indicators (KPIs) such as flight delays, passenger flow and security wait times.
 
 **Approach**:
